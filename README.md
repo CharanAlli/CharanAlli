@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharanAlli
+- 👋 Hi, I’m Charan Tej
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning Java and SpringBoot
 - 💞️ I’m looking to collaborate on Java Development
